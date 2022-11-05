@@ -8,9 +8,9 @@
 title               : PossibleCorg 
 description         : >-
                       I may or may not be a corgi.
-baseurl             : "/online_cv_public"   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
-#                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
-repository          : jnaiman               # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-yuwei97910>.github.io directly,
+#                                             otherwise will be hosted at <your-yuwei97910>.github.io/{{base_url}}
+repository          : jnaiman               # Change to <your-yuwei97910>/<your-yuwei97910>.github.io (or remove it if you don't need remote projects)
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -22,7 +22,7 @@ plugins:
   - mini_magick
 
 ### To specify which port to host locally on -- use if you have multiple sites you want to host 
-port: 4008
+# port: 4008
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
@@ -34,27 +34,27 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : A. P. Corgi
+  name              : YuWei Lai
   image             : https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg
-  behance           : your_username
-# dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
+  behance           : yuwei97910
+# dribbble          : yuwei97910
+  email             : yuwei97910@gmail.com
+  facebook          : yuwei97910
   github            : jnaiman # JPN
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
+# gitlab            : yuwei97910
+# instagram         : yuwei97910
+# kaggle            : yuwei97910
+  linkedin          : yuwei97910
+  medium            : yuwei97910
+# soundcloud        : yuwei97910
+# spotify           : yuwei97910
 # stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-  twitch            : your_username
-  twitter           : your_username
-  vimeo             : your_username
-  youtube           : your_channel_name
-# keybase           : your_username
+# tumblr            : yuwei97910.tumblr.com
+  twitch            : yuwei97910
+  twitter           : yuwei97910
+  vimeo             : yuwei97910
+  youtube           : yuwei97910
+# keybase           : yuwei97910
 
 
 ### Posts ###
@@ -72,7 +72,7 @@ collections:
 
 ### Disqus ###
 disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+  shortname: YL                     # Your website Shortname on disqus
 
 
 ### Analytics ###
@@ -86,7 +86,7 @@ analytics:
 # See https://www.buymeacoffee.com/
 buymeacoffee:
   enabled: false
-  username: your_username
+  username: yuwei97910
   color: "#007bff"
   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
   description: "Support me on Buy me a coffee!"
